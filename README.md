@@ -1,3 +1,4 @@
+<img src="https://pin.it/3ro9MzD">
 <h1 align="center">Hi 👋, I'm Jhonier Mosquera</h1>
 <h3 align="center">A passionate frontend developer and multimedia designer from Colombia</h3>
 
