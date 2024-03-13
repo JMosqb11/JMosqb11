@@ -1,4 +1,5 @@
-<img src="https://www.chipax.com/wp-content/uploads/2021/04/dev-1.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 480px; height: 232px; margin: 0px; width: 415px;" alt="Cómo pasé de historiador a ser el primer programador de Chipax" jsname="kn3ccd">
+<img src="https://www.chipax.com/wp-content/uploads/2021/04/dev-1.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 480px; height: 359px; margin: 0px; width: 843px;" alt="Cómo pasé de historiador a ser el primer programador de Chipax" jsname="kn3ccd">
+
 
 <h1 align="center">Hi 👋, I'm Jhonier Mosquera</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
