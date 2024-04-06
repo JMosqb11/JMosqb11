@@ -1,4 +1,4 @@
-<img src="https://www.chipax.com/wp-content/uploads/2021/04/dev-1.gif" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 480px; height: 359px; margin: 0px; width: 843px;" alt="Cómo pasé de historiador a ser el primer programador de Chipax" jsname="kn3ccd">
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*WVUBQsNgePqQxmrHjaID4g.png" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 843px; height: 359px; margin: 0px; width: 843px;" alt="Cómo pasé de historiador a ser el primer programador de Chipax" jsname="kn3ccd">
 
 
 # 💫 About Me:
