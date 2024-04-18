@@ -1,4 +1,4 @@
-<img src="https://cdn-images-1.medium.com/v2/resize:fit:1024/0*ALqWR8PJb0APdDzB" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 843px; height: 359px; margin: 0px; width: 843px;" alt="Cómo pasé de historiador a ser el primer programador de Chipax" jsname="kn3ccd">
+<img src="[https://cdn-images-1.medium.com/v2/resize:fit:1024/0*ALqWR8PJb0APdDzB](https://res.cloudinary.com/dk9ktxdpj/image/upload/v1713483904/d3zoazpqnffg1yggyifq.svg)" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 843px; height: 359px; margin: 0px; width: 843px;" alt="Cómo pasé de historiador a ser el primer programador de Chipax" jsname="kn3ccd">
 
 
 # 💫 About Me:
