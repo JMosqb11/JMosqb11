@@ -1,6 +1,3 @@
-<img src="https://res.cloudinary.com/dk9ktxdpj/image/upload/v1713484781/ei2od1lhlelwhszstbsd.jpg" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 843px; height: 359px; margin: 0px; width: 843px;" alt="JhonierDev ahora es Desarrollador Android" jsname="kn3ccd">
-
-
 # 💫 About Me:
 <br>Desarrollador Android trainee con un fuerte interés en el diseño y la experiencia de usuario. Tengo conocimientos trabajando con Kotlin para crear aplicaciones Android. Además, tengo conocimientos en front-end con React y Next.js, lo que me permite crear interfaces de usuario atractivas e interactivas. También estoy familiarizado con React Native, lo que me permite desarrollar aplicaciones móviles multiplataformas con un solo código base.<br><br>Mis habilidades incluyen:<br><br>- Desarrollo de aplicaciones Android: Kotlin, Android Studio, SDK de Android, Material Design<br>- Diseño de interfaces de usuario: React, Next.js, React Native, Figma, Adobe XD<br>- Diseño multimedia: Photoshop, Illustrator, Premiere Pro<br>- Control de versiones: Git, GitHub<br>- Metodologías ágiles: Scrum, Kanban<br><br>Estoy buscando oportunidades para trabajar en proyectos desafiantes y colaborar con equipos<br>talentosos. Me entusiasma aprender y crecer como desarrollador, y estoy seguro de que puedo <br>aportar valor a cualquier equipo.
 
