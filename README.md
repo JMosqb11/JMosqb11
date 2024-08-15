@@ -1,5 +1,14 @@
  # 💫 About Me:
-<br> Desarrollador con fuerte interés en el diseño y la experiencia de usuario. Tengo conocimientos trabajando con React Native y Kotlin basico para crear aplicaciones en Android. Además, tengo experiencia en el desarrollo frontend con React y Next.js, lo que me permite crear interfaces de usuario atractivas e interactivas.<br><br> Estoy buscando oportunidades para trabajar en proyectos desafiantes y colaborar con equipos<br>talentosos. Me entusiasma aprender y crecer como desarrollador, y estoy seguro de que puedo <br>aportar valor a cualquier equipo.
+<br> 
+
+My tech stack includes:
+
+- Frontend: React, JavaScript, TypeScript, Next.js
+- Multi-platform: React Native, Flutter
+- Android: Kotlin
+- Design: Adobe Creative Suite
+
+I'm excited to contribute to innovative projects and continue learning in the process.
 
 <br>
 
