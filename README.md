@@ -4,7 +4,7 @@
 My tech stack includes:
 
 - Frontend: React, JavaScript, TypeScript, Next.js
-- Multi-platform: React Native, Flutter
+- Multi-platform: React Native
 - Android: Kotlin
 - Design: Adobe Creative Suite
 
