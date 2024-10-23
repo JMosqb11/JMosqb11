@@ -6,8 +6,6 @@ My tech stack includes:
 - React, Next.js, JavaScript, TypeScript
 - React Native, Kotlin
 
-- Google Developer: (https://g.dev/jhonierdev)
-
 I'm excited to contribute to innovative projects and continue learning in the process.
 
 <br>
